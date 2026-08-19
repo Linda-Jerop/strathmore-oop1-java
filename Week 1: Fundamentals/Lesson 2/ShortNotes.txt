@@ -1,0 +1,14 @@
+
+java primitives
+strings
+logical and relational operatives
+conditional statements
+program control
+
+object classes
+constructor and method overloading
+inheritance
+
+
+DATA TYPES: PRIMITIVE DATA TYPES: integer, float, boolean... etc
+            ABSTRACT DATA TYPES(ADTs): user-defined data types    we will use the key word "new" to declare an ADT
