@@ -17,9 +17,11 @@ public class Demonstrations {
 }
 
 /*Please note:
-Java, like JS, uses camelCase for naming
+Java, like JS, uses camelCase for naming but PascalCase for naming Classes
 Python uses snake_case for naming variables and PascalCase for naming Classes
 
 
 java.lang.String (the lang pacage, String class) is sth you can import because it was already imported in the system
 String FName;
+
+String is an object
